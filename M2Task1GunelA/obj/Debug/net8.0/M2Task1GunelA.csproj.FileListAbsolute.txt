@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\bin\Debug\net8.0\M2Task1GunelA.exe
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\bin\Debug\net8.0\M2Task1GunelA.deps.json
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\bin\Debug\net8.0\M2Task1GunelA.runtimeconfig.json
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\bin\Debug\net8.0\M2Task1GunelA.dll
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\bin\Debug\net8.0\M2Task1GunelA.pdb
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\obj\Debug\net8.0\M2Task1GunelA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\obj\Debug\net8.0\M2Task1GunelA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\obj\Debug\net8.0\M2Task1GunelA.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\obj\Debug\net8.0\M2Task1GunelA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\obj\Debug\net8.0\M2Task1GunelA.dll
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\obj\Debug\net8.0\refint\M2Task1GunelA.dll
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\obj\Debug\net8.0\M2Task1GunelA.pdb
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\obj\Debug\net8.0\M2Task1GunelA.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\M2Task1GunelA\M2Task1GunelA\obj\Debug\net8.0\ref\M2Task1GunelA.dll
