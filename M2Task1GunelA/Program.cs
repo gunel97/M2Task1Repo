@@ -14,10 +14,10 @@
             //Console.WriteLine("Max= " + maxOfArray + "\nMin=" + minOfArray);
 
 
-            ////****** 2 - Average Double  type numbers
+            //****** 2 - Average Double  type numbers
 
-            //double average= Tasks.AverageNumbers(5.6, 4, 1);
-            //Console.WriteLine(average);
+            double average = Tasks.AverageNumbers();
+            Console.WriteLine(average);
 
             ////***********- 3- CALCULATE AGE IN DAYS - **********
 
@@ -71,6 +71,10 @@
         public static double AverageNumbers(params double[] a)
         {
             double sum = 0;
+            if(a.Length==0)
+            {
+                return 0;
+            }
             for (int i = 0; i < a.Length; i++)
             {
                 sum += a[i];

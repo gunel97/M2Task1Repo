@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M2Task1GunelA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+454a349b9de8decaa28a92412c525d0f7bfa1765")]
 [assembly: System.Reflection.AssemblyProductAttribute("M2Task1GunelA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M2Task1GunelA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
